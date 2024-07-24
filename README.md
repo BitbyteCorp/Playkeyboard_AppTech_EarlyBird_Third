@@ -1,1 +1,1 @@
-# Playkeyboard_AppTech_EarlyBird_Third
+<img width="740" alt="early-image" src="./Resource/early-image.png">
