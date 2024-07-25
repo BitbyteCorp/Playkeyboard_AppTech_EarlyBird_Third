@@ -1,4 +1,4 @@
-![description](./Resource/early-image.png)
+![description](./Resource/early-image-2.png)
 
 ### 유의사항
 - 원활한 운영을 위해 닉네임을 유지해주세요.
