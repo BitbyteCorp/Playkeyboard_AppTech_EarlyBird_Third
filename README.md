@@ -3,6 +3,8 @@
 <img src= "./Resource/page-board-1.png">
 <img src= "./Resource/page-board-2.png">
 
+<\body>
+
 ### 플키섬의 얼리버드 입주민 여러분들, 반가워요!
 
 *‘미션은 이게 다인가..? 새로운 미션도 추가되려나?’*
@@ -26,6 +28,8 @@
 **궁금증이 생길 때마다 언제든, 몇 번이든** 좋으니 게시판에 쪽지를 붙이러 찾아오세요!
 
 ---
+
+<body>
 
 <img src= "./Resource/page-image-1.png">
 <img src= "./Resource/page-image-2.png">
