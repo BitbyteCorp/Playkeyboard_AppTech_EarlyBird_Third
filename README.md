@@ -1,12 +1,34 @@
 <body>
 
+<img src= "./Resource/page-board-1.png">
+<img src= "./Resource/page-board-2.png">
+
+### 플키섬의 얼리버드 입주민 여러분들, 반가워요!
+
+*‘미션은 이게 다인가..? 새로운 미션도 추가되려나?’*
+
+*‘플끼는 왜 500타를 달성하면 오토바이를 태워주지?’ ‘엇, 근데 토끼가 운전해도 돼?’*
+
+*‘피버타임은 뭐가 다른거고, 시간대가 언제인거지?’*
+
+플키섬에서 지내며 궁금했던 점들이 있나요?
+
+앞으로 **게시판에 쪽지를 남기면** 플끼가 확인 후 **여기서 답변을 줄게요** ₍ᐢ. ̫.ᐢ₎
+
+### [쪽지 남기는 법]
+
+**❶** 화면 오른쪽 아래 **분홍색 스마일 말풍선💬 버튼** 누르기
+
+**❷ [문의하기→쪽지 붙이기]** 버튼 눌러 쪽지 남겨주기
+
+**8/6 화요일**에 첫번째 쪽지들을 모아 답변하러 돌아올게요.
+
+**궁금증이 생길 때마다 언제든, 몇 번이든** 좋으니 게시판에 쪽지를 붙이러 찾아오세요!
+
+---
+
 <img src= "./Resource/page-image-1.png">
 <img src= "./Resource/page-image-2.png">
-<img src= "./Resource/page-image-3.png">
-<a href="bitbyte.playkeyboard://theme.plkey.app/theme/PLKEY0-L-113" id="link">
-<img src="./Resource/page-image-4.png">
-</a>
-<img src= "./Resource/page-image-5.png">
 
 <script>
 
