@@ -3,7 +3,7 @@
 <img src= "./Resource/page-board-1.png">
 <img src= "./Resource/page-board-2.png">
 
-<\body>
+</body>
 
 ### 플키섬의 얼리버드 입주민 여러분들, 반가워요!
 
