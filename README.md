@@ -9,11 +9,6 @@
 
 **다음 쪽지는 8/5(월)**, 혜택3의 ‘만족도 평가(서베이)’와 함께 찾아와 답변을 드릴게요!  
 <body>
-<br><br>
-</body>
----
-<body>
-<br><br>
 <img src= "./Resource/page-image-3.png">
 </body>
 
