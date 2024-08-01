@@ -30,9 +30,11 @@
 <a href="https://tally.so/r/n9lVV4" id="link">
 <img src="./Resource/page-image-4.png">
 </a>
-<br>
---- 
-<br>
+<br><br>
+</body>
+---
+<body>
+<br><br>
 <img src= "./Resource/page-image-5.png">
 <br>
 </body>
